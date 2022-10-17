@@ -1,0 +1,66 @@
+.header {
+    background-color: var(--background);
+    border-bottom: 1px solid var(--border);
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.container-logo #seta {
+    cursor: pointer;
+    margin-left: 5px;
+    margin-bottom: 9px;
+}
+
+.header .container {
+    display: flex   ;
+    align-items: center;
+    justify-content: space-between;
+    
+    width: 90%;
+    height: 60px;
+
+    max-width: 957px;
+    margin: 0 auto;
+}
+
+.header .container .container-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.logo{
+    width: 103px;
+    height: 29px;
+    cursor: pointer;
+}
+
+.fake_input {
+    display: flex;
+    align-items: center;
+    background: #EFEFEF;
+    border-radius: 8px;
+    padding: 3px 16px;
+
+    width: 268px;
+    height: 36px;
+}
+
+.fake_input input {
+    padding: 0 7px;
+    font-size: 14px;
+}
+
+.icones {
+    display: flex;
+    gap: 24px;
+    cursor: pointer;
+}
+
+.foto-perfil {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+}

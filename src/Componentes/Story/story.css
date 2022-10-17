@@ -1,0 +1,31 @@
+.container {
+    padding: 15px;
+    display: flex;
+    gap: 11px;
+    height: 119px;
+}
+
+.usuarios div{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient( #c82d8e, #f99d4c);
+}
+
+.foto_usuario {
+    border: 1px solid white;
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    cursor: pointer;
+    object-fit: cover;
+}
+
+.usuarios p {
+    font-size: 12px;
+    cursor: pointer;
+    text-align: center;
+}

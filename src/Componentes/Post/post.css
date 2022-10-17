@@ -1,0 +1,128 @@
+
+
+.foto-post {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1.5px solid white;
+}
+
+.cabeçalho {
+    height: 56px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 8px 15px;
+    justify-content: space-between;
+}
+
+.info-post {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    
+}
+
+.settings {
+    cursor: pointer;
+}
+
+.fundo-perfil {
+    background: linear-gradient( #c82d8e, #f99d4c);
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.cabeçalho img {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    object-fit: cover;
+}
+
+
+
+
+.imagem-post img{
+    object-fit: cover;
+}
+
+.footer-post {
+    padding: 8px 15px;
+    height: 257px;
+    margin-bottom: 0px;
+}
+
+.engajamento-post {
+    display: flex;
+    gap: 16px;
+    justify-content: space-between;
+}
+
+.engajamento-post #favoritar {
+    cursor: pointer;
+}
+
+.engajamento-post .icon-1 .icon{
+    display: flex;
+    gap: 16px;
+    cursor: pointer;
+}
+
+.likes {
+    margin-top: 6px;
+}
+
+.likes span {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.legenda {
+    margin: 6px 0 3px;
+}
+
+.tempo-postado {
+    margin: 6px 0 3px;
+}
+
+.tempo-postado p {
+    font-size: 10px;
+    font-weight: 600;
+}
+
+.comentarios span{
+    display: flex;
+    gap: 4px;
+    font-size: 14px;
+    margin-top: 10px
+}
+
+.comentarios span strong {
+    font-weight: 500;
+}
+
+.comentar {
+    margin: 10px;
+    padding: 16px;
+    border-top: 1px solid var(--border);
+    display: flex;
+    justify-content: space-between;
+}
+
+.comentar1{
+    display: flex;
+    gap: 8px
+}
+
+.comentar1 input {
+    font-size: 15px;
+}
+
+button {
+    color: var(--quartary);
+    cursor: pointer;
+}

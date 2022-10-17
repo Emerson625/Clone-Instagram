@@ -1,0 +1,25 @@
+#MainGrid {
+    display: grid;
+    grid-template-areas: "firstColumn secondColumn";
+    grid-template-columns: 470px 319px;
+    grid-gap: 30px;
+    max-width: 470px;
+    margin: 0px 22.7%;
+}
+
+.box1{
+    margin-top: 87px;
+    background-color: var(--background);
+    border:  1px solid var(--border);
+    border-radius: 8px;
+}
+
+#post2 {
+    margin-top: 15px;
+}
+
+
+.box2 {
+    margin-top: 87px;
+}
+
