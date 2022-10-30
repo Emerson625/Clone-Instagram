@@ -6,3 +6,4 @@
  <p>My teacher, Gabriel Augusto, who recommended this project. It was my first time using React.js.</p>
  
 
+	https://img.shields.io/github/issues/Emerson625/Clone-Instagram
