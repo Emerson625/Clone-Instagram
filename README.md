@@ -6,3 +6,4 @@
  <p>My teacher, Gabriel Augusto, who recommended this project. It was my first time using React.js.</p>
  
 <a href="https://github.com/Emerson625/Clone-Instagram/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Emerson625/Clone-Instagram"></a>
+<img alt="Mozilla Add-on" src="https://img.shields.io/amo/rating/e">
