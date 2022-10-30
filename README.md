@@ -1,4 +1,4 @@
- ![garmgram](https://user-images.githubusercontent.com/110692035/198859505-156c5ab0-9596-4d51-a0b4-b84c152775ba.png)
+ <div width='100px'>![garmgram](https://user-images.githubusercontent.com/110692035/198859505-156c5ab0-9596-4d51-a0b4-b84c152775ba.png)</div>
  <h1 align="center">Instagram Clone</h1>
  
  <h2>This project consists in a clone of the Instagram</h2>
