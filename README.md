@@ -1,4 +1,4 @@
- <H1 text-align=center>Instagram Clone</H1>
+ <H1 align="center">Instagram Clone</H1>
  
  <h2>This project consists in a clone of the Instagram</h2>
  
