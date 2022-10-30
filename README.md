@@ -5,4 +5,4 @@
  
  <p>My teacher, Gabriel Augusto, who recommended this project. It was my first time using React.js.</p>
  
- 	https://img.shields.io/aur/last-modified/eu
+
